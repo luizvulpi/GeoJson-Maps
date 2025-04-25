@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "AC",
+        "nome": "Acre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.55,
+          -9.974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "AL",
+        "nome": "Alagoas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.57,
+          -9.571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "AM",
+        "nome": "Amazonas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.75,
+          -3.416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "AP",
+        "nome": "Amapá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05,
+          1.414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "BA",
+        "nome": "Bahia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7,
+          -12.579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "CE",
+        "nome": "Ceará"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.33,
+          -5.205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "DF",
+        "nome": "Distrito Federal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.929,
+          -15.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "ES",
+        "nome": "Espírito Santo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.34,
+          -19.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "GO",
+        "nome": "Goiás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.42,
+          -15.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "MA",
+        "nome": "Maranhão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.28,
+          -5.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "MG",
+        "nome": "Minas Gerais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.38,
+          -18.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "MS",
+        "nome": "Mato Grosso do Sul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.54,
+          -20.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "MT",
+        "nome": "Mato Grosso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1,
+          -12.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PA",
+        "nome": "Pará"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2,
+          -3.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.72,
+          -7.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PE",
+        "nome": "Pernambuco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.95,
+          -8.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PI",
+        "nome": "Piauí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.71,
+          -7.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PR",
+        "nome": "Paraná"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.55,
+          -24.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RJ",
+        "nome": "Rio de Janeiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18,
+          -22.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RN",
+        "nome": "Rio Grande do Norte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.63,
+          -5.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RO",
+        "nome": "Rondônia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9,
+          -11.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RR",
+        "nome": "Roraima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.22,
+          2.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RS",
+        "nome": "Rio Grande do Sul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.39,
+          -30.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "SC",
+        "nome": "Santa Catarina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.44,
+          -27.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "SE",
+        "nome": "Sergipe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.07,
+          -10.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "SP",
+        "nome": "São Paulo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64,
+          -23.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "TO",
+        "nome": "Tocantins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2,
+          -10.25
+        ]
+      }
+    }
+  ]
+}
