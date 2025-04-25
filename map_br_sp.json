@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.6333, -23.5505],
+            [-46.6334, -23.5506],
+            [-46.6335, -23.5507],
+            [-46.6333, -23.5505]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "São Paulo"
+      }
+    }
+  ]
+}
