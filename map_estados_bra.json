@@ -1,0 +1,302 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "AC",
+        "nome": "Acre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.550, -9.974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "AL",
+        "nome": "Alagoas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-36.570, -9.571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "AM",
+        "nome": "Amazonas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.750, -3.416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "AP",
+        "nome": "Amapá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.050, 1.414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "BA",
+        "nome": "Bahia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-41.700, -12.579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "CE",
+        "nome": "Ceará"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-39.330, -5.205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "DF",
+        "nome": "Distrito Federal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.929, -15.780]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "ES",
+        "nome": "Espírito Santo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.340, -19.190]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "GO",
+        "nome": "Goiás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.420, -15.920]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "MA",
+        "nome": "Maranhão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.280, -5.420]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "MG",
+        "nome": "Minas Gerais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.380, -18.100]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "MS",
+        "nome": "Mato Grosso do Sul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.540, -20.480]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "MT",
+        "nome": "Mato Grosso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.100, -12.680]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PA",
+        "nome": "Pará"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-52.200, -3.410]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-36.720, -7.120]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PE",
+        "nome": "Pernambuco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-36.950, -8.280]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PI",
+        "nome": "Piauí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.710, -7.060]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PR",
+        "nome": "Paraná"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.550, -24.890]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RJ",
+        "nome": "Rio de Janeiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.180, -22.900]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RN",
+        "nome": "Rio Grande do Norte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-36.630, -5.790]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RO",
+        "nome": "Rondônia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.900, -11.220]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RR",
+        "nome": "Roraima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.220, 2.820]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RS",
+        "nome": "Rio Grande do Sul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-53.390, -30.030]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "SC",
+        "nome": "Santa Catarina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.440, -27.330]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "SE",
+        "nome": "Sergipe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-37.070, -10.550]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "SP",
+        "nome": "São Paulo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.640, -23.550]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "TO",
+        "nome": "Tocantins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.200, -10.250]
+      }
+    }
+  ]
+}
